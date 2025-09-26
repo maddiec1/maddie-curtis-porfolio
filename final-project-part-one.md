@@ -8,7 +8,7 @@ The US Steel Industry has been a major part of many American city’s history an
 
 At the end of the 20th century, there was a major decline in the reliance on and the efficiency of the steel industry in the country. In the early 2000s the US became a large importer of steel, moving away from the manufacturing process. In 2025, Japan’s largest steel manufacturer, Nippon Steel, acquired the US’ largest steel manufacturer, US Steel, for $14.9 million (IMAA, 2025). This marks a reinvestment into the steel industry in the US, with plans to keep the company in the country, keep the headquarters in Pittsburgh, and at least a $4 billion investment in new steel mills (IMAA, 2025). 
 
-	The story that I want to tell is that the steel industry is extremely damaging to the health and wellbeing of the communities surrounding steel mills. I want to show that this reinvestment will cause more harm than good due to the damage to the health of the people and their environment. 
+The story that I want to tell is that the steel industry in the US  is extremely damaging to the health and wellbeing of the communities surrounding the steel mills. I want to show that this reinvestment will cause more harm than good due to the damage to the health of the people and their environment. 
 
  I hope to inform residents of the surrounding cities of steel manufacturing of the harms of the steel industry, so that they feel empowered to urge their local government officials to impose standards and regulations to protect the health of their residents. 
 
