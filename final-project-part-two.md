@@ -30,14 +30,14 @@ I conducted three interviews. Two interviews were with Heinz College students in
 
 | Questions               | Heinz Student 1 | Heinz Student 2 |Utility Company Intern|
 |-------------------------|--------------------------------|-------------|-------------|
-|What would you change to make it flow better?|They recommended adding a hook that is some form of a personal narrative to grab the attention of the audience. They recommended this because my story is very information heavy, so something attention grabbing at the beginning would be useful.|They recommended I rely less on images and focus more on making data visualizations to represent the image or video that I was trying to show. The argument was that this would tell the story better and make the message more clear.|             |
-|what information would make the story clearer?|They recommended that I add a stronger emphasis on the top three or four health risks that are associated with steel production and use repetition of these three or four health risks to drive the point home. The way it was described seemed almost like using buzzwords or a slogan.|They described my topic as niche, so they recommended that I add quotes or some sort of personal narrative to make it more engaging to the audience.|             |
+|What would you change to make it flow better?|They recommended adding a hook that is some form of a personal narrative to grab the attention of the audience. They recommended this because my story is very information heavy, so something attention grabbing at the beginning would be useful.|They recommended I rely less on images and focus more on making data visualizations to represent the image or video that I was trying to show. The argument was that this would tell the story better and make the message more clear.|They recommend that I use one chart type throughout instead of different charts. They said one chart type would be more uniform and make the story less choppy.|
+|what information would make the story clearer?|They recommended that I add a stronger emphasis on the top three or four health risks that are associated with steel production and use repetition of these three or four health risks to drive the point home. The way it was described seemed almost like using buzzwords or a slogan.|They described my topic as niche, so they recommended that I add quotes or some sort of personal narrative to make it more engaging to the audience.|They recommended adding more context as to why the sale of US Steel to Nippon Steel is important in this story and why it brings a call to action.|
 |Does it make more sense to have the audience be residents or policymakers?|They recommended that the audience be policymakers istead of residents because while my story is informative to residents, residents might not understand how to advocate for themselves and that information is not included.|They recommended that the target audience be policymakers because it skips the middle man and doesn't put a further burden on the residents. Instead you're telling the story straight to the source of change.|They recommended the target audience be policymakers because it is likely that residents of frontline communities already know the health risks that they are experiencing due to steel production. They don't need to hear the story of it because it is THEIR story.|
 
 
 # Identified changes for Part III
 
-Text here!
+After the interviews, I noticed a few commonalities in the responses I was getting. Below is the synthesized research results and the changes I plan to make because of them. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ Text here!
 |The target audience does not need to be residents|I will definitely be changing the structure of my story to reflect policymakers as my target audience. After going through the interview process, this became so much more clear as the right choice.|
 |Expanding the range of data visualizations|Previously I was focuing my data visualizations on the health risks to show the differences in frequency around the country, but after the interviews, I think it would be useful to include visualizations about the environmental harms as well because it will help complete the story. Human health and environmental health are interconnected!|
 |Adding more emphasis to the top three health risks assoicated with steel production|I am going to add some sort of data visualization that highlights the top three health risks (maybe a tree map), so that there is a clear emphasis. I am also going to have seperate visualization for reach health risk.|
-| ...add more rows as necessary            |                                                                                 |
+|Data visualization type|My idea was to use different data visualization types for my data to have my story be more interesting. I recieved a recommendation that using a set visualization type, like line graphs, would help the story flow better. I may make this change.|
 
 
 ## References
