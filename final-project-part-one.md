@@ -2,8 +2,7 @@
 
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
+
 The US Steel Industry has been a major part of many American city’s history and economic growth. Steel mills were and still continue to be a huge part of the identities of cities like Pittsburgh, PA, Cleveland, OH, Buffalo, NY and more. However, the large presence of the steel industry comes with a cost of harm to the human and environmental health of the surrounding communities of these steel mills. Steel mills release air pollutants that contribute to the increase in greenhouse gases, causing climate change to occur rapidly as well as harm the health of frontline community members. The health risks from exposure to steel production include but are not limited to an increase in cancer rates, asthma rates, lung disease, and heart disease. 
 
 At the end of the 20th century, there was a major decline in the reliance on and the efficiency of the steel industry in the country. In the early 2000s the US became a large importer of steel, moving away from the manufacturing process. In 2025, Japan’s largest steel manufacturer, Nippon Steel, acquired the US’ largest steel manufacturer, US Steel, for $14.9 million (IMAA, 2025). This marks a reinvestment into the steel industry in the US, with plans to keep the company in the country, keep the headquarters in Pittsburgh, and at least a $4 billion investment in new steel mills (IMAA, 2025). 
