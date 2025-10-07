@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
 Hi! My name is Maddie Curtis (she/her) and I am a second year MSPPM student at Heinz. I am interested in Environmental Policy specifically in terms of climate resiliency and disaster mitigation. For undergrad, I went to the University of Kentucky and studied Environmental Sustainability Studies and Economics. 
