@@ -15,7 +15,7 @@ Things that I hope to learn in this course are:
 
 # Portfolio
 
-## Assignment: [Visualizing Government Debt](https://maddiec1.github.io/maddie-curtis-porfolio/VizualizingGovernmentDebt)
+## Assignment: [Visualizing Government Debt](https://maddiec1.github.io/maddie-curtis-porfolio/VizualizingGovernmentDebt.md)
 
 ## Assignment 3&4: [Critique by Design](https://maddiec1.github.io/maddie-curtis-porfolio/critique-by-design)   
 
