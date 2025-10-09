@@ -18,13 +18,13 @@ Things that I hope to learn in this course are:
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [critique by design](critique-by-design)  
+## Assignment 3&4: ([critique-by-design](https://maddiec1.github.io/maddie-curtis-porfolio/critique-by-design))  
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part I](https://maddiec1.github.io/maddie-curtis-porfolio/final-project-part-one)
+[Part II](https://maddiec1.github.io/maddie-curtis-porfolio/final-project-part-two)
+Part III(https://maddiec1.github.io/maddie-curtis-porfolio/final-project-part-three)
 
 ## References
 _List any references you used here._
