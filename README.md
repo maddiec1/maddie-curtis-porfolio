@@ -10,13 +10,12 @@ Things that I hope to learn in this course are:
 
 1. Ways to make visualizations engaging without relying on color or intricate graphs.
 2. Skills to expand my Tableau abilities 
-3. Which types of visuals go with the certain types of information (usually) 
+3. Which types of visuals go with the certain types of information (usually)
 
 
 # Portfolio
 
-## Assignment: [Visualizing overnment Debt](https://maddiec1.github.io/maddie-curtis-porfolio/vizualizinggovernmentdebt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+## Assignment: [Visualizing overnment Debt](https://maddiec1.github.io/maddie-curtis-porfolio/visualizinggovernmentdebt) 
 
 ## Assignment 3&4: ([critique-by-design](https://maddiec1.github.io/maddie-curtis-porfolio/critique-by-design))  
 
