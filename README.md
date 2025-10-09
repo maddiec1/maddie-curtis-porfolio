@@ -24,7 +24,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](https://maddiec1.github.io/maddie-curtis-porfolio/final-project-part-one)
 [Part II](https://maddiec1.github.io/maddie-curtis-porfolio/final-project-part-two)
-Part III(https://maddiec1.github.io/maddie-curtis-porfolio/final-project-part-three)
+[Part III](https://maddiec1.github.io/maddie-curtis-porfolio/final-project-part-three)
 
 ## References
 _List any references you used here._
