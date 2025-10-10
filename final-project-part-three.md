@@ -2,11 +2,11 @@
 
 # The final data story
 
-Text here!
+[Understanding Potential Harms to your Community](https://carnegiemellon.shorthandstories.com/protecting-residents-from-steel-industry-harms/index.html)
 
 # Changes made since Part II
 
-Text here!
+Since Part II I made many changes to my story on the harms of steel production. First, I changed my target audience to local government officials. This changed the scope of my story and better aligned with the content that I was pulling together. Next, I added visualizations to show enforcement actions that the Allegheny County Health Department (ACHD) has taken against US Steel measured in US Dollars. This was to provide context in to the amount that US Steel has violated regulations, to argue that the County should set stricter standards or increase the penalty associated with violations. I also added information about the recent explosion at Clairton Coke Works to show that harmful accidents could continue to happen, so regulations should be set in place to reduce the amount of accidents and the harm from these accidents. I also added images to provide emphasis on the health risks associated with steel production. 
 
 ## The audience
 
@@ -14,20 +14,21 @@ My target audience is policymakers/local government officials and specifically t
 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+I intentionally kept the color scheme as navy blue, orange, white, and black because I felt that those colors accurately represented the vibe of the steel industry. I kept the visualization colors gray and orange to provide emphasis on what was important and also skip with the color theme. I wanted to include a map to show the range of locations of steel mills across the country. I also did this to show which states had the highest concentration of steel mills. I chose a bar graph to show the top 50 Asthma Capitals (by city) in the US because I felt it was a good way to quickly see the range in scores. I highlighted in orange the cities that are on the list and also are home to steel manufacturing facilities. 
+
+I used Allegheny County and Southwestern PA as a case study to highlight higher cancer rates due to air pollution from steel production. I did so with a map that shifts in and out of the state of PA to provide context as to where the region was in comparison to the rest of the state. I included two visualizations to represent enforcement from ACHD in US dollars in the last 5 years. The first was a yearly total shown with an area graph and the second was the amount by quarters per year with a scatterplot. The area graph was to help visualize the magnitude/size of the total amount of fines in the last five years. The scatterplot was to highlight the spike in fines in Q1 of 2022. 
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+
+Listed in Shorthand
 
 ## AI acknowledgements
 
 N/A
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+Overall, the scope of this topic can be really broad. For the time frame for this project, I wanted to focus on the asthma and cancer risks associated with steel production. I had personal experiences and prior knowledge of the harms in Allegheny County, so I chose to narrow the scope even more with aspects focused on that. US Steel is also headquarted in Allegheny County. It would have been interesting to look at how other countries handle steel production and the harms that come with it, but due to the scope I chose not to.  
 
 
