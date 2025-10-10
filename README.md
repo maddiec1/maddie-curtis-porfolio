@@ -20,14 +20,14 @@ Things that I hope to learn in this course are:
 ## Assignment 3&4: [Critique by Design](https://maddiec1.github.io/maddie-curtis-porfolio/critique-by-design)   
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+
+The US Steel industry has been a big part of many US Cities histories and economic growth, with steel mills being located in at least 30 states across the country. In the early 2000s the US became a large importer of steel, moving away from the manufacturing process. This is changing because this year Nippon Steel officially acquired US Steel. This marks reinvestment into the US’ role in the manufacturing process of steel as Nippon Steel plans to keep US Steel in the US and guarantees at least a $4 billion investment in new steel mills. This is a problem because the production of steel releases hazardous air pollutants and criteria air pollutants into the atmosphere. These air pollutants can pose risks to human health like heart and reproductive system disorders and can increase risks of respiratory problems like asthma and lung cancer. To address these potential harms to human health, I am calling on our local government officials to set strict emissions standards and regulations to ensure the health and safety of residents in your community. 
+
 [Part I](https://maddiec1.github.io/maddie-curtis-porfolio/final-project-part-one)
 [Part II](https://maddiec1.github.io/maddie-curtis-porfolio/final-project-part-two)
 [Part III](https://maddiec1.github.io/maddie-curtis-porfolio/final-project-part-three)
 
-## References
-_List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+N/A
 
