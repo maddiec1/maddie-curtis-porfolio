@@ -1,23 +1,13 @@
 | [home page](https://maddiec1.github.io/maddie-curtis-porfolio/) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
-Hi! My name is Maddie Curtis (she/her) and I am a second year MSPPM student at Heinz. I am interested in Environmental Policy specifically in terms of climate resiliency and disaster mitigation. For undergrad, I went to the University of Kentucky and studied Environmental Sustainability Studies and Economics. 
+Hi! My name is Maddie Curtis (she/her) and I am a second year MSPPM student at Heinz College. I am interested in Environmental Policy specifically in terms of climate resiliency and disaster mitigation. For undergrad, I went to the University of Kentucky and studied Environmental Sustainability Studies and Economics. 
 
 In my free time, I enjoy working out, walking my dog, and listening to podcasts! 
-
-# What I hope to learn
-Things that I hope to learn in this course are: 
-
-1. Ways to make visualizations engaging without relying on color or intricate graphs.
-2. Skills to expand my Tableau abilities 
-3. Which types of visuals go with the certain types of information (usually)
-
 
 # Portfolio
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
-
-## Assignment 3&4: [Critique by Design](https://maddiec1.github.io/maddie-curtis-porfolio/critique-by-design)   
 
 ## Final project
 
